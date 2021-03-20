@@ -1,0 +1,12 @@
+{
+    "name": "pbmage/test",
+    "description": "Magento 2 test module",
+    "type": "magento2-module",
+    "version": "100.0.0",
+    "authors": [{
+        "name": "Bhavin Bhalodiya",
+        "email": "pbmage@hotmail.com",
+        "homepage": "https://www.pbmage.com",
+        "role": "Developer"
+    }]
+}
